@@ -1,0 +1,2 @@
+Nfts url : https://testnets.opensea.io/assets/rinkeby/0xcd8d11c6bcd4517edf0a9262cd1a7e97452052b1/1
+etherscan url : https://rinkeby.etherscan.io/tx/0x06d03b33e99ca02ccbac9e22b555bbf93f2900ca4a4ebe417906f4a633d18373
